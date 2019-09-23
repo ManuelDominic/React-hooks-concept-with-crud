@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button,
+.button {
+	margin-bottom: 0 !important;
+  margin-right: .5rem;
+  color: whitesmoke;
+  background-color: blue;
+}
